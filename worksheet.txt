@@ -1,0 +1,11 @@
+# Test Worksheet. 
+
+Instructions: 
+Answer the questions in a setence or less.
+
+Q: What does wget do?
+A:
+
+
+Q: What does chmod do? And how would you describe what +x is doing?
+A: 
