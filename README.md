@@ -12,13 +12,13 @@ The goal of this assignment is to test our github classroom infrastructure. This
 - Github set up and working
     - Zach's instructions linked below may help. 
 
-
 # INSTRUCTIONS:
 
+0. Add your github information to spreadsheet so we can identify you in github classroom. Linked here: https://docs.google.com/spreadsheets/d/1gwoqiB14vYHKZ_K0AVE3NB0I0zFp9inJn-ZF3eBPMCE/edit?usp=sharing
 1. Read through Zach's github and unix command instructions, linked here: https://eecs.wsu.edu/~cs360/ta_resources/howto-linux-cmds.html
 2. Use `wget` to get the file located at: https://eecs.wsu.edu/~cs360/samples/LAB1pre/a.out
-3. Use "man wget" to read about wget. Answer the question in the worksheet.txt file. 
-4. Run "./a.out", notice that it doesn't work. 
-5. Use chmod to change the permissions of a.out to make it executable. 
-6. Run a.out using "./a.out", to verify chmod worked.
+3. Use `man wget` to read about wget. Answer the question in the `worksheet.txt` file. 
+4. Run `./a.out`, notice that it doesn't work. 
+5. Use `chmod` to change the permissions of a.out to make it executable. 
+6. Run a.out using `./a.out`, to verify chmod worked.
 7. Answer worksheet question about chmod. Use the man page to read about it. 
